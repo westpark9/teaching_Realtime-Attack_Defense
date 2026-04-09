@@ -10,6 +10,10 @@ OWASP Juice Shop + Docker Compose + Suricata + Web Dashboard
 
 https://github.com/kentech-stis-lab/teaching_Realtime-Attack_Defense/blob/main/%EC%84%A4%EC%B9%98%20%EB%B0%8F%20%EC%8B%A4%EC%8A%B5%EB%8D%B0%EB%AA%A8.mp4
 
+
+### AI-IDS 실습 구글 드라이브
+
+https://buly.kr/GZzOwo5
 ---
 
 ## 사용법
